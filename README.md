@@ -1,5 +1,9 @@
 # Enrow CLI
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/EnrowAPI/enrow-cli)](https://github.com/EnrowAPI/enrow-cli)
+[![Last commit](https://img.shields.io/github/last-commit/EnrowAPI/enrow-cli)](https://github.com/EnrowAPI/enrow-cli/commits)
+
 Find and verify professional emails and phone numbers from your terminal.
 
 ## Install
