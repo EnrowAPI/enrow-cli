@@ -49,15 +49,6 @@ enrow phone find-bulk --file contacts.csv
 enrow phone get-bulk batch_xyz
 ```
 
-## Reverse Email
-
-```bash
-enrow reverse find --email tcook@apple.com
-enrow reverse get reverse_abc123
-enrow reverse find-bulk --file emails.txt
-enrow reverse get-bulk batch_xyz
-```
-
 ## Account
 
 ```bash
@@ -84,7 +75,7 @@ apple.com,Tim,Cook
 microsoft.com,Satya,Nadella
 ```
 
-**Email verifier / Reverse email** (`--file emails.txt`):
+**Email verifier** (`--file emails.txt`):
 ```
 tcook@apple.com
 snadella@microsoft.com
@@ -97,7 +88,6 @@ snadella@microsoft.com
 | Email Finder | 1 credit/email |
 | Email Verifier | 0.25 credit/email |
 | Phone Finder | 50 credits/phone |
-| Reverse Email | 5 credits/lookup |
 
 ## Links
 
